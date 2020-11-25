@@ -1,0 +1,11 @@
+def add(a,b):
+    print("add something")
+    return "addtion"
+def sub(a,b):
+    return a-b
+def mul(a,b):
+    return a*b
+def div(a,b):
+    return a/b
+def s(a,b):
+    return "addition"
